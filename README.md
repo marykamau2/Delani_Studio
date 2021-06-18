@@ -3,7 +3,7 @@
 ## Developer
  Mary Kamau
 ## Description
-This is a simple HTML,CSS,Javascript,JQuery and Bootstrap project that showcase what services delani studio offers.It also allows one to send messages to them.
+This is a simple HTML,CSS,Javascript and Bootstrap project that showcase what services delani studio offers.It also allows one to send messages to them.
 ## Setup/Installation Requirements
 * Clone the repo
 ```
@@ -17,7 +17,6 @@ No known bugs yet
 * HTML
 * CSS
 * Javascript
-*  jQuery
 * Bootstrap
 ## Live site
 
