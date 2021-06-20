@@ -17,3 +17,15 @@
     background-size:cover; 
     margin: 20px;
 }  
+.welcome{
+    font-size: 150%;
+    text-align: center;
+    }
+    .subhead{
+        font-size: 50%;
+    }
+    
+    .about{
+    text-align: center;
+    margin:5% 0 5% 0 ;
+    }
