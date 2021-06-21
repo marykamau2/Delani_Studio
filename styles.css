@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
- .image-top{
+.image-top{
     background-image: url('./assets/backgrounds/h_img.jpg');
     width: 100%;
     height: 60vh;
@@ -20,15 +20,15 @@
 .welcome{
     font-size: 150%;
     text-align: center;
-    }
+}
 .subhead{
     font-size: 50%;
-    }
+}
     
 .about{
     text-align: center;
     margin:5% 0 5% 0 ;
-    }
+}
 
 .service{
     background-image: url('./assets/backgrounds/s_image.jpg');
@@ -56,18 +56,14 @@
     box-sizing: border-box;
     width: 100%;
     width: 70vw;
-    margin: 5px auto;
-    
-            
+    margin: 5px auto;           
 }
 .portfolio h3{
     text-align: center;
 }
 .row1 div img{
     margin-bottom: 5px;
-    width: 100%;
-
-    
+    width: 100%;   
 }
 .row1 div img:hover{
    transform: scale(1.1);
@@ -77,8 +73,7 @@
 
 }
 
- .contact{
-
+.contact{
     background-image: url('./assets/backgrounds/c_image.jpg');
     height: 40vh;
     width: 100%;
@@ -93,39 +88,44 @@
     margin: 10px;
 
 }
+
 .contact input, textarea{
     background-color:inherit;
     border:.5px solid white;
     color: white
 }
 
+
 ::-webkit-input-placeholder{
     color: white;
 }
+#text area{
+    height: 70px;
+    width: 100px;
+}
 
 .social{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-around;
-        height: 20vh;
-        margin: 2%;
-        padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 20vh;
+    margin: 2%;
+    padding: 5px;
 } 
     
 #hoverdiv{
-        display: none;
-        position: absolute;
-        font-size: 14px;
-        padding: 7px;
-        background-color: white;
-        color: #404040;
-        border: 1px solid black;
-        z-index: 2;
-        width: fit-content;
-        opacity: .8;
-        height: 50px;
-
+    display: none;
+    position: absolute;
+    font-size: 14px;
+    padding: 7px;
+    background-color: white;
+    color: #404040;
+    border: 1px solid black;
+    z-index: 2;
+    width: fit-content;
+    opacity: .8;
+    height: 50px;
 }  
 
 .delani{
