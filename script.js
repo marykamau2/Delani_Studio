@@ -28,20 +28,20 @@ $(document).ready(function(){
         $(this).hide()
     })
 
-//     $("#button").click(function(e){
-//         e.preventDefault();
-//         var email =$("#email").val();
-//         var textarea =$("#textarea").val()
-//         var name =$("#name").val()
+    $("#button").click(function(e){
+        e.preventDefault();
+        var email =$("#email").val();
+        var textarea =$("#textarea").val()
+        var name =$("#name").val()
 
-//         if(name===""|| textarea===""|| email===""){
-//             alert("Please fill all the fields")
-//             return;
-//         }
-//         else {
+        if(name===""|| textarea===""|| email===""){
+            alert("Please fill all the fields")
+            return;
+        }
+        else {
         
-//          alert(name+", Email from "+email+ " has been received. Thank you")
+         alert(name+", Email from "+email+ " has been received. Thank you")
        
-//         }
-//     })
-// })
+        }
+    })
+})
