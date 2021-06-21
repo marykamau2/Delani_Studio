@@ -44,11 +44,11 @@
     width: 100%;
     margin: 5% 0;
 }
-/* .whatWeDo>h3{
+.whatWeDo>h3{
     text-align: center;
 }
 
-.portfolio{
+/* .portfolio{
     box-sizing: border-box;
     width: 100%;
     width: 70vw;
@@ -112,12 +112,12 @@
         opacity: .8;
         height: 50px;
 
-}
+} */
 
 .delani{
     text-align: center;
     margin-top: 40px;
-} */
+} 
    
 
 
