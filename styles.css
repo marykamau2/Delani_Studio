@@ -94,6 +94,11 @@
     border:.5px solid white;
     color: white
 }
+
+::-webkit-input-placeholder{
+    color: white;
+}
+
 .social{
         display: flex;
         flex-direction: column;
