@@ -9,27 +9,27 @@ $(document).ready(function(){
         $(this).hide()
     })
 
-    $(".design_img").click(function(){
-        $(".designText").show();
-        $(this).hide()
-    })
+    // $(".design_img").click(function(){
+    //     $(".designText").show();
+    //     $(this).hide()
+    // })
  
-    $(".designText").click(function(){
-        $(".design_img").show();
-        $(this).hide()
-    })
-    $(".product_img").click(function(){
-        $(".productText").show();
-        $(this).hide()
+    // $(".designText").click(function(){
+    //     $(".design_img").show();
+    //     $(this).hide()
+    // })
+    // $(".product_img").click(function(){
+    //     $(".productText").show();
+    //     $(this).hide()
+    // })
+
+    // $(".productText").click(function(){
+    //     $(".product_img").show();
+    //     $(this).hide()
     })
 
-    $(".productText").click(function(){
-        $(".product_img").show();
-        $(this).hide()
-    })
 
 
-    
 
     $("#button").click(function(e){
         e.preventDefault();
