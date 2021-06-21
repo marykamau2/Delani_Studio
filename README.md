@@ -19,6 +19,7 @@ No known bugs yet
 * Javascript
 * Bootstrap
 ## Live site
+https://marykamau2.github.io/Delani_Studio/
 
 ## Support and contact details
 If you want to contact me, email me on mmarynjerikamau@gmail.com
