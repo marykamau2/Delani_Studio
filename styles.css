@@ -54,6 +54,12 @@
 .designText{
     display: none;
 }
+.devText{
+    display: none;
+}
+.productText{
+    display: none;
+}
 
 .portfolio{
     box-sizing: border-box;
