@@ -28,9 +28,6 @@ $(document).ready(function(){
         $(this).hide()
     })
 
-
-
-
     $("#button").click(function(e){
         e.preventDefault();
         var email =$("#email").val();
