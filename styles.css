@@ -89,6 +89,11 @@
     margin: 10px;
 
 }
+.contact input, textarea{
+    background-color:inherit;
+    border:.5px solid white;
+    color: white
+}
 .social{
         display: flex;
         flex-direction: column;
