@@ -1,8 +1,8 @@
 $(document).ready(function(){
     $(".development_img").click(function(){
         $(".devText").show();
-        $(this).hide()
-    })
+        $(this).hide();
+    });
 
     $(".devText").click(function(){
         $(".development_img").show();
@@ -43,5 +43,5 @@ $(document).ready(function(){
          alert(name+", Email from "+email+ " has been received. Thank you")
        
         }
-    })
-})
+    });
+});

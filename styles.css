@@ -51,6 +51,9 @@
 .col-md-4 {
     text-align: center;
 }
+.designText{
+    display: none;
+}
 
 .portfolio{
     box-sizing: border-box;
@@ -126,7 +129,8 @@
     width: fit-content;
     opacity: .8;
     height: 50px;
-}  
+} 
+ 
 
 .delani{
     text-align: center;
