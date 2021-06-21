@@ -23,9 +23,9 @@ $(document).ready(function(){
         $(this).hide()
     })
 
-    // $(".productText").click(function(){
-    //     $(".product_img").show();
-    //     $(this).hide()
+    $(".productText").click(function(){
+        $(".product_img").show();
+        $(this).hide()
     })
 
 
