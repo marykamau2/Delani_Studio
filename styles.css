@@ -44,6 +44,34 @@
     width: 100%;
     margin: 5% 0;
 }
+/* .whatWeDo>h3{
+    text-align: center;
+}
+
+.portfolio{
+    box-sizing: border-box;
+    width: 100%;
+    width: 70vw;
+    margin: 5px auto;
+    
+            
+}
+.portfolio h3{
+    text-align: center;
+}
+.row1 div img{
+    margin-bottom: 5px;
+    width: 100%;
+
+    
+}
+.row1 div img:hover{
+   transform: scale(1.1);
+   overflow: hidden;
+   opacity: .6;
+   transition: transform 1s;
+
+}
 
 .contact{
 
@@ -60,5 +88,37 @@
     padding-top: 5px;
     margin: 10px;
 
-    }
+}
+.social{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        height: 20vh;
+        margin: 2%;
+        padding: 5px;
+} 
+    
+#hoverdiv{
+        display: none;
+        position: absolute;
+        font-size: 14px;
+        padding: 7px;
+        background-color: white;
+        color: #404040;
+        border: 1px solid black;
+        z-index: 2;
+        width: fit-content;
+        opacity: .8;
+        height: 50px;
+
+}
+
+.delani{
+    text-align: center;
+    margin-top: 40px;
+} */
+   
+
+
                    
